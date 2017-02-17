@@ -1,0 +1,21 @@
+I don't think it's necessary to state in the scope what a product won't do. There are an infinite number of things a program doesn't do. If you REALLY want to clarify something that a layman would think the program should do but doesn't, make a separate functional requirement for it.
+
+Interesting choice making a PDF file any file with a .pdf extension... though I think we discussed that this isn't a good strategy in class after the document was originally due.
+
+Your example for "Title" doesn't really tell me anything new. Why not give a title from one of your sample papers?
+
+"in batches?" What exactly do you mean by this? How do you distinguish a batch? Why separate it into batches? 
+
+While I think we stated this for the first time before the document was due, the format should be specified by the user, not a hard-coded format.
+
+So should I take it to mean a "successfully renamed" file is a file where at least one of the specified fields could be extracted?
+
+"reasonable efficiency" is subjective and not verifiable. 
+"Proper" is subjective and not verifiable. Why not just say all errors are handled?
+"documented" and "maintainable" are both subjective. Though in this case I wouldn't know any better requirements to give; we struggled with this section too.
+
+It's fine that you didn't have this in the document, but what would the UI mockup look like while its processing the document?
+
+"processed" means what exactly? Refer to earlier requirements or a definition of processed.
+
+I don't think it was necessary to include the entire PDF of every research paper in the document (though Mateti may say otherwise). You got your information from the research paper snapshots.  90%+ of your Requirements documents are research paper PDFS. A References section would have worked perfectly here.
