@@ -1,3 +1,5 @@
+Review for other team's requirements doc found here: https://github.com/md-k-sarker/PDF-Renamer/blob/master/Requirement/Requirements_v0.0.4_team_of_3.pdf
+
 I don't think it's necessary to state in the scope what a product won't do. There are an infinite number of things a program doesn't do. If you REALLY want to clarify something that a layman would think the program should do but doesn't, make a separate functional requirement for it.
 
 Interesting choice making a PDF file any file with a .pdf extension... though I think we discussed that this isn't a good strategy in class after the document was originally due.
