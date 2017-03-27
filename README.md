@@ -1,2 +1,4 @@
 # CS7140
-CS 7140 project
+To run the DomainModelling Demo:
+
+java -jar domainModelling.jar path/to/pdf
